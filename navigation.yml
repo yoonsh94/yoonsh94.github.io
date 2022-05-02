@@ -1,0 +1,9 @@
+#main links
+
+main:
+  - title: "Home"
+    url: https://yoonsh22.github.io
+  - title: "Publications"
+    url: /publications/
+  - title: "Teaching"
+    url: /teaching/
