@@ -102,11 +102,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Seong Hoon Yoon"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Ph.D. student in Statistics at the University of Auckland, New Zealand."
+  location         : "Auckland & Seoul"
+  email            : syoo986@aucklanduni.ac.nz
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
