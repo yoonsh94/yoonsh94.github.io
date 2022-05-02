@@ -1,2 +1,4 @@
+---
 layout: page
 title: Teaching
+---
