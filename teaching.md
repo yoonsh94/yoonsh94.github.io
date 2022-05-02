@@ -1,1 +1,2 @@
-
+layout: page
+title: Teaching
